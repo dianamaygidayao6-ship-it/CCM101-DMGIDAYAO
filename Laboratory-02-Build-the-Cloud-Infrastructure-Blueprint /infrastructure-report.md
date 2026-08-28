@@ -13,7 +13,8 @@ I investigated the Linux server provided by KillerCoda using different Linux com
 | Total RAM | 1.9 GiB |
 | Disk Capacity | 20 GB |
 | Hostname | ubuntu |
-| IP Address | [GET FROM `hostname -I`] |
+| IP Address | 172.30.1.2 |
+| Additional IP / Gateway | 172.17.0.1 |
 
 ## Storage Information
 
