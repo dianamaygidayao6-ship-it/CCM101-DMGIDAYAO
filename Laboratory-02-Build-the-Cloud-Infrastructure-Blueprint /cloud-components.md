@@ -1,9 +1,3 @@
-
----
-
-# 4. `cloud-components.md`
-
-```markdown
 # Cloud Infrastructure Components
 
 ## 1. Compute Resources
